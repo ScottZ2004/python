@@ -1,0 +1,11 @@
+name= "name: SkullCrusher "
+power= "power: 280W "
+plasma_ammo= "plasma ammo: 300P "
+jump= "jump: 10 "
+grenade= "number of grenades: 4 "
+gas_mask= "on "
+special_talent= "special talent: invincebility "
+speed= "speed: 80 "
+ultimate_charge= "ultimate charge: 78% "
+cammo= "cammo: true "
+print(name + power + plasma_ammo + jump + grenade + gas_mask + special_talent + speed + ultimate_charge + cammo)
