@@ -31,3 +31,11 @@ print("2 + 24 = ", getal2)
 getal2 /= 26
 
 print("26 / 26 = ", getal2)
+
+getal2 *= 25 
+
+print("1 × 25 = ", getal2)
+
+getal2 -= 1
+
+print("25 - 1 = ", getal2)
