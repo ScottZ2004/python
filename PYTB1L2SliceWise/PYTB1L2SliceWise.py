@@ -1,3 +1,4 @@
+
 tekst = 'De Python lessen worden gegeven voor Erik, Erwin en ook door Hidde'
 print(tekst[37:41])
 print(tekst[43:49])
