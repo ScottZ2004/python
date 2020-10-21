@@ -5,7 +5,7 @@ Waar = True
 
 nummer = 10000
 while Waar == True:
-        nummer -= 155
+        nummer -= 100
         print(nummer)
         time.sleep(0.25)
         if nummer == 0:
